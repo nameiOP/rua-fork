@@ -1,7 +1,7 @@
 {
     "name": "nameiop/rua-fork",
     "description": "php fork",
-    "keywords": ["php", "rua","fork"],
+    "keywords": ["php", "rua","fork","php7"],
     "authors" : [
         {
             "name": "liubin",
