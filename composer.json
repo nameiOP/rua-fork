@@ -1,10 +1,10 @@
 {
     "name": "nameiop/rua-fork",
     "description": "php fork",
-    "keywords": ["php", "rua","fork","php7"],
+    "keywords": ["php", "rua","fork"],
     "authors" : [
         {
-            "name": "liubin",
+            "name": "liu.bin",
             "email": "ruabye@126.com",
             "homepage": "http://blog.ruaby.com"
         }
@@ -18,7 +18,7 @@
     	"files":[
         ],
         "psr-4": {
-            "pfork\\":"fork/"
+            "ruf\\":"lib/"
         }
     }
 }
