@@ -1,13 +1,13 @@
 <?php
-namespace pfork;
+namespace ruf;
 
 
 /**
  * PHP 多进程
- * Class pfork
+ * Class ruf
  * @package pfork
  */
-class phpfork{
+class ruf{
 
 
     /**
@@ -26,10 +26,6 @@ class phpfork{
      * @var int 父进程pid
      */
     private $parent_pid = 0;
-
-
-
-
 
 
 
